@@ -20,18 +20,18 @@ pip install -r requirements.txt
 ```
 
 ## 🚧 TODO
-* [x] Project: Evaluation - Train/Dev/Test
+* [x] Evaluation - Train/Dev/Test
     * [x] Migration from ipynb to py
-* [x] Project: Baselines
+* [x] Baselines
     * [x] Migrate to new plotting functionality?
-* [x] Project: Decision Tree, Random Forest
+* [x] Decision Tree, Random Forest
     * [x] Better naming of raw plots
     * [x] Add tree.py to src/README.md
     * [x] Better modularization for future models
     * [x] Add all results tables to appendix (for comparison)
-* [x] Exercise 7: Project: MLP
+* [x] MLP
     * [x] Calculate significance
-* [x] Exercise 8: Project: Projectspecifics
+* [x] Project-Specifics
     * [x] Create visualization for comparison of different features (using PCA, ...?)
     * [x] Try other classifiers? + Test (SVM?)
 * [x] Etc.
