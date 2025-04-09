@@ -1,0 +1,11 @@
+.venv
+**/__pycache__/
+project/data/Sarcasm_Headlines_Dataset_v2.json
+**/.DS_Store
+**/.vscode
+**/project/data/splits/not_stemmed
+**/project/data/splits/stemmed
+!/project/data/splits/stemmed/200_test_data.json
+!/project/data/splits/stemmed/200_train_data.json
+!/project/data/splits/not_stemmed/200_test_data.json
+!/project/data/splits/not_stemmed/200_train_data.json
