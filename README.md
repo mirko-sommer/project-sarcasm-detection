@@ -4,7 +4,7 @@
 
 This project uses different classifiers (Decision Tree, Random Forest, Multi-Layer Perceptron, Support Vector Machine) for sarcasm detection using sklearn. Training and testing are performed on a dataset for sarcasm detection. The hope is to help people who have difficulty differentiating sarcastic from non-sarcastic sentences, like autistic and neurodivergent people.
 
-For a detailed report of my methods and results refer to [./report.md](./report.md).
+**For a detailed report of my methods and results, with tables and plots, please refer to [./report.md](./report.md).**
 
 ## 📚 How to run the code
 ### Requirements
